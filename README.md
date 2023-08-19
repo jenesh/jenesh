@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Jenesh 👋👨‍💻
+
+I'm a Software Engineer who is passionate about solving problems with and without code! Currently, I'm at Codecademy which was a website in which I first started to learn how to code. 
 
 <!--
 **jenesh/jenesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Jenesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenesh)](https://github.com/jenesh/github-readme-stats)
+<!-- [![Jenesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jenesh)](https://github.com/jenesh/github-readme-stats) -->
