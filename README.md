@@ -1,6 +1,8 @@
 # Hi, I'm Jenesh 👋👨‍💻
 
-I'm a Software Engineer who is passionate about solving problems with and without code! Currently, I'm at Codecademy which was a website in which I first started to learn how to code. 
+I'm a Software Engineer who is passionate about solving problems with and without code! Currently, I'm at Codecademy helping millions of learners from all around the world. 🌎
+
+Fun fact: I  do not have a CS degree!
 
 <!--
 **jenesh/jenesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
