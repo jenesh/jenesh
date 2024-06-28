@@ -1,6 +1,6 @@
 # Hi, I'm Jenesh 👋👨‍💻
 
-I'm a Software Engineer turned Engineering Manager. I am passionate about solving problems with and without code! Currently, I'm at Codecademy, helping millions of learners from all around the world. 🌎
+I'm a Software Engineer turned Engineering Manager. I manage two growth teams of 12 engineers responsible for signups and conversion. I am passionate about solving problems with and without code! Currently, I'm at Codecademy, helping millions of learners from all around the world. 🌎
 
 Fun fact: I  do not have a CS degree! 👀
 
